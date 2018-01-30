@@ -69,3 +69,4 @@ app.get("/attitude-chart/:att", function(req, res) {
 });
 // Initiate the listener.
 app.listen(port);
+// 3 routes actually 
